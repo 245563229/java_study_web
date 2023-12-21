@@ -1,5 +1,5 @@
 {
-  "name": "java_study_web",
+  "name": "vite-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.3.11"
+    "axios": "^1.6.2",
+    "element-plus": "^2.4.4",
+    "vue": "^3.3.11",
+    "yarn": "^1.22.21"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.2",
